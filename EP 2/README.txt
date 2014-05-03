@@ -2,7 +2,7 @@ README EP 2 - Introducao a analise de algoritmos
 Turma 94
 
 ----------------------------------------------------------
-Índice
+ï¿½ndice
 	1 - INTEGRANTES DO GRUPO
 	2 - CLASSES CONTIDAS NESTE EXERCICIO PROGRAMA
 	3 - SOBRE O ARQUIVO DE CONFIGURACAO
@@ -28,9 +28,9 @@ Turma 94
 
 3 - SOBRE O ARQUIVO DE CONFIGURACAO
 
-	O arquivo de configuração será utilizado para leitura de parametros das classes Ordenador e Buscador. Este deve ser um arquivo de extensão .txt, com a padronização citada no enunciado do ep. O caminho do arquivo deve ser utilizado como argumento de execução do programa JAVA (Ex.: java Ordenador C:\Users\Guest\Configs\config.txt ou caso o arquivo esteja na raiz do programa apenas "java Ordenador config.txt")
+	O arquivo de configuraï¿½ï¿½o serï¿½ utilizado para leitura de parametros das classes Ordenador e Buscador. Este deve ser um arquivo de extensï¿½o .txt, com a padronizaï¿½ï¿½o citada no enunciado do ep. O caminho do arquivo deve ser utilizado como argumento de execuï¿½ï¿½o do programa JAVA (Ex.: java Ordenador C:\Users\Guest\Configs\config.txt ou caso o arquivo esteja na raiz do programa apenas "java Ordenador config.txt")
 
-	No conteúdo do arquivo de configuração o parametro ENTRADA deve seguir os padrões do enunciado do ep, sendo apenas o NOME do arquivo e este arquivo de entrada deve ser de extensão .txt e estar localizado na MESMA pasta do arquivo de configuração.
+	No conteï¿½do do arquivo de configuraï¿½ï¿½o o parametro ENTRADA deve seguir os padrï¿½es do enunciado do ep, sendo apenas o NOME do arquivo e este arquivo de entrada deve ser de extensï¿½o .txt e estar localizado na MESMA pasta do arquivo de configuraï¿½ï¿½o.
 
 ----------------------------------------------------------
 
